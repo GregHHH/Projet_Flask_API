@@ -1,9 +1,3 @@
-### HATON - Grégory - g_haton@hetic.eu
-### AVENEL - Victor - v_avenel2@hetic.eu
-### AKEB - Anis - a_akeb@hetic.eu
-### BASSAGAL - Samuel Klein - s_bassagal@hetic.eu
-### LOCHON - Guillaume - g_lochon@hetic.eu
-### TADIE - Yverine - y_tadie@hetic.eu
 ---
 # Food Buy API
 
